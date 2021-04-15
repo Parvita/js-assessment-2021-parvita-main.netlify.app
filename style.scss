@@ -1,0 +1,7 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0.5cm;
+    padding: 1em;
+    color: aquamarine;
+}
